@@ -1,3 +1,11 @@
+/*
+ * @Description: https://doi.org/10.1007/s11207-012-9966-z
+ * @Author: Thomas Wiegelmann (wiegelmann@mps.mpg.de)
+ * @Date: 
+ * @LastEditors: Thomas Wiegelmann (wiegelmann@mps.mpg.de)
+ * @LastEditTime: 
+*/
+
 /* rebin3d.c */
 #include <stdio.h>
 #include <math.h>

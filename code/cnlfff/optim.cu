@@ -1,3 +1,12 @@
+/*
+ * @Description: https://doi.org/10.1007/s11207-012-9966-z
+ * @Author: Thomas Wiegelmann (wiegelmann@mps.mpg.de)
+ * @Date: 
+ * @LastEditors: Xinze Zhang (zhangxinze17@mails.ucas.ac.cn)
+ * @LastEditDescription: Update GPU version
+ * @LastEditTime: 202212
+*/
+
 #include <stdio.h>
 #include <time.h>
 
