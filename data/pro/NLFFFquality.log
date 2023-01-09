@@ -1,0 +1,17 @@
+
+ Quality Check of NLFFF field
+ Input File: Bout.bin  
+
+ Full Box, nx=45, ny=100,nz=55, nd=0 
+
+ Average B on lower Boundary: 78.43
+ L=8.0887, L1=5.0683,  L2= 3.0204
+ Sigma_J 0.1732 , Angle(B,J) = 9.9766 Degree
+ -------------------------------------------------------------------
+
+ Inner Region, nx=45, ny=100,nz=55 
+
+ Average B on lower Boundary: 78.43
+ L=8.0887, L1=5.0683,  L2= 3.0204
+ Sigma_J 0.1732 , Angle(B,J) = 9.9766 Degree
+ -------------------------------------------------------------------
