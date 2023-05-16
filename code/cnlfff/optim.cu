@@ -304,7 +304,7 @@ __global__ void sum1D_d(int nx, int slice_nx, double *x)
     int max_x = (delta_x + slice_nx);
     max_x = max_x < nx ? max_x : nx;
 
-    for (ix = delta_x + f1; ix < max_x; ix++)
+    for (ix = delta_x + 1; ix < max_x; ix++)
     {
         x[delta_x] += x[ix];
     }
